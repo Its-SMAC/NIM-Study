@@ -6,3 +6,5 @@ This repository contains my study of the NIM language, from basic syntax to adva
 I hope that, in the end, this repository will be useful for newer NIM programmers.
 
 I welcome tips and advice to improve my skills and turn this “manual” into a good and comprehensive guide for NIM programmers.
+
+Sorry for my poor English, I'm Portuguese and I'm not good at English, but I'm trying to improve.
