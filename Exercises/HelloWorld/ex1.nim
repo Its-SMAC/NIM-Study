@@ -12,7 +12,7 @@
 
 echo "Hello World"
 echo("Hello World")
-"Hello".echo "World"
+"Hello ".echo "World"
 "Hello World".echo
 
 # However, exist other form to make this:
